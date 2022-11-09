@@ -3,6 +3,10 @@ YourTube
 ======
 Release v2.0.2
 
+.. image:: https://readthedocs.org/projects/yourtube/badge/?version=latest
+    :target: https://yourtube.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 .. image:: https://readthedocs.org/projects/python-pytube/badge/?version=latest&style=flat-square
   :alt: Readthedocs
 
