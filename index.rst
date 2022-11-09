@@ -127,3 +127,7 @@ Links
 
 
 ©Intense Network, 2022
+
+.. image:: resources/icon.png
+  :width: 400
+  :alt: YourTube icon
