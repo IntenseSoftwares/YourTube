@@ -78,9 +78,15 @@ If need any help or concern, contact Intense Support at `Intense Support (Telegr
 Links
 --------------
 `Website <https://sites.google.com/view/IntenseNetwork>`_
+|
 `Telegram <https://telegram.dog/s/IntenseNetwork>`_
+|
 `YouTube <http://youtube.com/@Intense_Network>`_
+|
 `Intense Support <https://t.me/IntenseSupport>`_
+|
 `Instagram <https://instagram.com/IntenseNetwork>`_
+
+
 
 ©Intense Network, 2022
