@@ -38,6 +38,7 @@ Features
 
 The User Guide
 --------------
+
 Ensure Valid YouTube link:
 - The video link should be publicly available in YouTube at the time of downloading.
 - The video link should be available in your country.
